@@ -1,0 +1,5 @@
+Hello, I am the PRAKTIKAI chatbot. I'm here to answer any questions you might have about PRAKTIKAI.
+
+Please note that I am not perfect, and can make mistakes. Nothing I say should be taken as legally binding or as the direct views of the company overall, even though I am doing my best. I am just a demo LLM application after all.
+
+Now that we've gotten all that out of the way, what can I help with?
